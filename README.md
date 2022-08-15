@@ -28,9 +28,9 @@ Released; project is complete, but might receive some updates
 
 ---
 ## Contributors
-* for doppler effect: https://www.youtube.com/watch?v=1GLW0nYRbI4
-* for movement: https://www.youtube.com/watch?v=f473C43s8nE
-* for airplane engine sound: https://webprocomponents.com/propeller-plane-engine-loop
+for doppler effect: https://www.youtube.com/watch?v=1GLW0nYRbI4  
+for movement: https://www.youtube.com/watch?v=f473C43s8nE  
+for airplane engine sound: https://webprocomponents.com/propeller-plane-engine-loop
 
 ---
 ## Licence & Copyright
