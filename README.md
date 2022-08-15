@@ -3,21 +3,28 @@ Made for Unity Essentials - Mission 2.
 
 ---
 ## Table of Contents
-- [Doppler Effect Test Project](#doppler-effect-test-project)
-  - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Contributors](#contributors)
-  - [Licence & Copyright](#licence--copyright)
+* [General Info](#general-info)
+* [Screenshots](#screenshots)
+* [Status](#status)
+* [Version](#version)
+* [Contributors](#contributors)
+* [Licence & Copyright](#licence--copyright)
 
 ---
 ## General Info
-* In this scene, you can test the doppler effect at different points of the scene through the sound of the rotating airplane. Note that the effect is different at each point.
+In this scene, you can test the doppler effect at different points of the scene through the sound of the rotating airplane. Note that the effect is different at each point.
 
 ---
 ## Screenshots
-
 ![Screenshot_1](https://user-images.githubusercontent.com/71559273/184042716-9a1f71da-7f0b-4d42-9698-11d5b49762b8.png)
+
+---
+## Status
+Released; project is complete, but might receive some updates
+
+---
+## Version
+**Version 1.0**
 
 ---
 ## Contributors
@@ -27,5 +34,5 @@ Made for Unity Essentials - Mission 2.
 
 ---
 ## Licence & Copyright
-© Ejder Aysun, Doppler Effect Project 
+© Ejder Aysun, Doppler Effect Project  
 Licensed under the [MIT Licence](https://github.com/EjderAysun/Doppler-Effect-Project/blob/main/LICENCE).
