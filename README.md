@@ -3,12 +3,13 @@ Made for Unity Essentials - Mission 2.
 
 ---
 ## Table of Contents
-* [General Info](#general-info)
-* [Screenshots](#screenshots)
-* [Status](#status)
-* [Version](#version)
-* [Contributors](#contributors)
-* [Licence & Copyright](#licence--copyright)
+  * [Table of Contents](#table-of-contents)
+  * [General Info](#general-info)
+  * [Screenshots](#screenshots)
+  * [Status](#status)
+  * [Version](#version)
+  * [Contributors](#contributors)
+  * [Licence & Copyright](#licence--copyright)
 
 ---
 ## General Info
@@ -20,7 +21,7 @@ In this scene, you can test the doppler effect at different points of the scene 
 
 ---
 ## Status
-On hold; development is paused for now
+Released; project is complete, but might receive some updates
 
 ---
 ## Version
@@ -35,4 +36,4 @@ for airplane engine sound: https://webprocomponents.com/propeller-plane-engine-l
 ---
 ## Licence & Copyright
 © Ejder Aysun, Doppler Effect Project  
-Licensed under the [MIT Licence](https://github.com/EjderAysun/Doppler-Effect-Project/blob/main/LICENCE).
+Licensed under the [MIT Licence](https://github.com/EjderAysun/Doppler-Effect-Project/blob/main/LICENCE)
