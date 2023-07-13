@@ -17,7 +17,7 @@ In this scene, you can test the doppler effect at different points of the scene 
 
 ---
 ## Screenshots
-![Screenshot_1](https://user-images.githubusercontent.com/71559273/184042716-9a1f71da-7f0b-4d42-9698-11d5b49762b8.png)
+![place](https://user-images.githubusercontent.com/71559273/184042716-9a1f71da-7f0b-4d42-9698-11d5b49762b8.png)
 
 ---
 ## Status
