@@ -21,7 +21,8 @@ In this scene, you can test the doppler effect at different points of the scene 
 
 ---
 ## Status
-Released; project is complete, but might receive some updates
+~~Released; project is complete, but might receive some updates~~  
+Project is complete
 
 ---
 ## Version
